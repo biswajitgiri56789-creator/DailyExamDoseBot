@@ -1,0 +1,14 @@
+{
+  "বাংলা": ["গদ্য", "পদ্য", "নাটক", "উপন্যাস"],
+  "ইতিহাস": ["French Revolution", "Russian Revolution", "National Movement"],
+  "ভূগোল": ["Geomorphology", "Climatology", "Economic Geography"],
+  "দর্শন": ["Indian Philosophy", "Western Philosophy"],
+  "রাষ্ট্রবিজ্ঞান": ["Democracy", "Constitution", "Political Theory"],
+  "English": ["Prose", "Poetry", "Drama", "Novel"],
+  "Physics": ["Mechanics", "Electrostatics", "Magnetism"],
+  "Chemistry": ["Organic", "Inorganic", "Physical Chemistry"],
+  "Mathematics": ["Algebra", "Calculus", "Trigonometry"],
+  "Biology": ["Cell Biology", "Genetics", "Evolution"],
+  "Economics": ["Microeconomics", "Macroeconomics"],
+  "Computer Science": ["Programming", "Data Structures"]
+}

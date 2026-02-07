@@ -1,0 +1,22 @@
+{
+  "Class 11": {
+    "bn": ["বাংলা", "ইতিহাস", "ভূগোল", "দর্শন", "রাষ্ট্রবিজ্ঞান", "শিক্ষা", "পরিবেশ বিদ্যা"],
+    "en": ["English", "Physics", "Chemistry", "Mathematics", "Biology", "Computer Science", "Economics", "Accountancy", "Business Studies"]
+  },
+  "Class 12": {
+    "bn": ["বাংলা", "ইতিহাস", "ভূগোল", "দর্শন", "রাষ্ট্রবিজ্ঞান", "শিক্ষা", "পরিবেশ বিদ্যা"],
+    "en": ["English", "Physics", "Chemistry", "Mathematics", "Biology", "Computer Science", "Economics", "Accountancy", "Business Studies"]
+  },
+  "College 1st Year": {
+    "bn": ["বাংলা", "ইতিহাস", "দর্শন", "রাষ্ট্রবিজ্ঞান", "শিক্ষা", "সমাজতত্ত্ব"],
+    "en": ["English", "Economics", "Geography", "Mathematics", "Physics", "Chemistry", "Computer Science", "BBA", "BCom"]
+  },
+  "College 2nd Year": {
+    "bn": ["বাংলা", "ইতিহাস", "দর্শন", "রাষ্ট্রবিজ্ঞান", "শিক্ষা", "সমাজতত্ত্ব"],
+    "en": ["English", "Economics", "Geography", "Mathematics", "Physics", "Chemistry", "Computer Science"]
+  },
+  "College 3rd Year": {
+    "bn": ["বাংলা", "ইতিহাস", "দর্শন", "রাষ্ট্রবিজ্ঞান", "শিক্ষা", "সমাজতত্ত্ব"],
+    "en": ["English", "Economics", "Geography", "Mathematics", "Physics", "Chemistry", "Computer Science"]
+  }
+}
